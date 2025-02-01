@@ -1,0 +1,1 @@
+This project explores ways to control and format output in C++ for better readability. It uses iomanip to adjust spacing, alignment, and precision, making it display a users balance. It uses functions like setf(), setw(), setprecision() ect. 
