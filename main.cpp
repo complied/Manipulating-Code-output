@@ -50,7 +50,6 @@ Id     Name      Balance
 00002  Bob       $530.25
 00003  Charlie   $2040.50
 
-Program ended with exit code: 0
  
  
  
